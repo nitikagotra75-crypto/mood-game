@@ -1,0 +1,21 @@
+.touch-controls {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 0 18px 22px;
+  pointer-events: none;
+  z-index: 30;
+}
+
+.touch-controls-side {
+  display: flex;
+  gap: 14px;
+  align-items: flex-end;
+  pointer-events: auto;
+}
+
+.touch-controls-side.right {
+  flex-direction: row-reverse;
+}
