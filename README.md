@@ -1,4 +1,4 @@
-# Emerald Run — Endless Forest Platformer
+# Emerald Run : Endless Forest Platformer
 
 A complete endless 2D platformer built with **React + Vite + Phaser 3** (Arcade Physics).
 All art is procedurally drawn with Phaser Graphics at boot time and all audio is
